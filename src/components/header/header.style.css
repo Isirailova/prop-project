@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  font-size: 35px;
+  padding: 20px;
+}
+.header1 {
+  display: flex;
+  margin-left: 25px;
+  margin-right: 25px;
+  gap: 30px;
+}
+p,
+li {
+  font-size: 19px;
+}
+.image {
+  display: flex;
+  align-items: center;
+}
